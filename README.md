@@ -309,37 +309,37 @@ Hosted by
 
 ## 📸 Screenshots
 
-(screenshots/Screenshot_20260712_164142.jpg)
+![](screenshots/Screenshot_20260712_164142.jpg)
 
-(screenshots/Screenshot_20260712_164151.jpg)
+![](screenshots/Screenshot_20260712_164151.jpg)
 
-Screenshot_20260712_164225.jpg
+![](screenshots/Screenshot_20260712_164225.jpg)
 
-Screenshot_20260712_164241.jpg
+![](screenshots/Screenshot_20260712_164241.jpg)
 
-Screenshot_20260712_164320.jpg
+![](screenshots/Screenshot_20260712_164320.jpg)
 
-Screenshot_20260712_164328.jpg
+![](screenshots/Screenshot_20260712_164328.jpg)
 
-Screenshot_20260712_164407.jpg
+![](screenshots/Screenshot_20260712_164407.jpg)
 
-Screenshot_20260712_164417.jpg
+![](screenshots/Screenshot_20260712_164417.jpg)
 
-Screenshot_20260712_164422.jpg
+![](screenshots/Screenshot_20260712_164422.jpg)
 
-Screenshot_20260712_164449.jpg
+![](screenshots/Screenshot_20260712_164449.jpg)
 
-Screenshot_20260712_164459.jpg
+![](screenshots/Screenshot_20260712_164459.jpg)
 
-Screenshot_20260712_164513.jpg
+![](screenshots/Screenshot_20260712_164513.jpg)
 
-Screenshot_20260712_164518.jpg
+![](screenshots/Screenshot_20260712_164518.jpg)
 
-Screenshot_20260712_164648.jpg
+![](screenshots/Screenshot_20260712_164648.jpg)
 
-Screenshot_20260712_164733.jpg
+![](screenshots/Screenshot_20260712_164733.jpg)
 
-Screenshot_20260712_164738.jpg
+![](screenshots/Screenshot_20260712_164738.jpg)
 
 Screenshot_20260712_164754.jpg
 
