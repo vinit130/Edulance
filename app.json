@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "Edulance",
+    "slug": "edulance",
+    "scheme": "edulance",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.anonymous.edulance",
+      "softwareKeyboardLayoutMode": "resize",
+      "googleServicesFile": "./google-services.json"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-font",
+      "expo-web-browser",
+      "@react-native-google-signin/google-signin",
+      "expo-video"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "d3899a44-7599-4a2a-b2ff-3ab95558e5af"
+      }
+    },
+    "owner": "raj_vinit001"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "700394410080",
+    "project_id": "edulance-66e03",
+    "storage_bucket": "edulance-66e03.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700394410080:android:9849677a411a2a88573305",
+        "android_client_info": {
+          "package_name": "com.anonymous.edulance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700394410080-u1mc7pf9tv5f9uklsj2bjna9pfrt57m8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anonymous.edulance",
+            "certificate_hash": "e97beccc3d309e4e56d27cccc540ccb6f4a44edc"
+          }
+        },
+        {
+          "client_id": "700394410080-vmhk8tfi7fo1cgpusb32n0plj89hkfnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAgbHArKvQ9fA4A5XSfpkM_CKVjBzi_5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700394410080-vmhk8tfi7fo1cgpusb32n0plj89hkfnl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
