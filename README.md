@@ -309,9 +309,9 @@ Hosted by
 
 ## 📸 Screenshots
 
-Screenshot_20260712_164142.jpg
+(Screenshot_20260712_164142.jpg)
 
-Screenshot_20260712_164151.jpg
+(Screenshot_20260712_164151.jpg)
 
 Screenshot_20260712_164225.jpg
 
